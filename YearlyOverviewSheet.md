@@ -1,4 +1,4 @@
-### Metric Definitions:
+# Metric Definitions:
 
 Metric | Definition
 -------|-------
